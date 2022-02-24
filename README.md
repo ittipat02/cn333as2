@@ -1,4 +1,9 @@
 # cn333as2
-<b>นาย อิทธิพัฒนฺ ปุระเทพ 6210612583</b><br />
-โปรแกรม my notes สามารถเขียนโน็ตข้าไปได้
+#นาย อิทธิพัฒนฺ ปุระเทพ 6210612583<br />
+#description
+โปรแกรม my notes สามารถเขียนโน็ตเข้าไปได้
+#video
+https://youtu.be/LKB3kui8Sso
+#preview
+![preview](pic/preview1.png)
 
